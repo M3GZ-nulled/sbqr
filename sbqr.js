@@ -2,8 +2,8 @@
 // @name         SB QuickResponses
 // @namespace    https://www.nulled.to/user/4103370-m3gz/
 // @version      1.0.0
-// @updateURL    https://github.com/M3GZ-nulled/sbqr/sbqr.js
-// @downloadURL  https://github.com/M3GZ-nulled/sbqr/sbqr.js
+// @updateURL    https://github.com/M3GZ-nulled/sbqr/raw/main/sbqr.js
+// @downloadURL  https://github.com/M3GZ-nulled/sbqr/raw/main/sbqr.js
 // @description  Quick Responses for Nulled.to by M3GZ
 // @author       https://www.nulled.to/user/4103370-m3gz
 // @match        https://www.nulled.to/
